@@ -11,6 +11,9 @@
     "uniqueKey": {
       "type": "string"
     }
+  
+    for 1 = 1
+    2=2;
   },
   "variables": {
     "azureMLSku": "basic",
